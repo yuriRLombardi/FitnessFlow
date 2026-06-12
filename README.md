@@ -37,6 +37,10 @@ Landing page desenvolvida como resultado dos primeiros passos da jornada **Fulls
 
 ---
 
+### 🔗 Demo: https://yurirlombardi.github.io/Fundo-Magico/
+
+---
+
 ## 🎯 Objetivo
 
 Desenvolver uma landing page para um app de fitness fictício, aplicando conceitos de design responsivo, semântica HTML e boas práticas de CSS — utilizando o GitHub Copilot como ferramenta assistiva a partir de um plano elaborado previamente, praticando o fluxo de desenvolvimento orientado por IA.
