@@ -1,6 +1,6 @@
 # 💪 FitnessFlow
 
-Landing page desenvolvida como resultado da jornada **Fullstack com IA** na plataforma **B7Web**, com o professor Bonieky. A página apresenta as funcionalidades de um app de treino fictício chamado **FitFlow**, com design clean, sofisticado e responsivo, desenvolvida com o apoio do **GitHub Copilot** a partir de um plano estruturado pelo próprio desenvolvedor.
+Landing page desenvolvida como resultado dos primeiros passos da jornada **Fullstack com IA** na plataforma **B7Web**, com o professor Bonieky. A página apresenta as funcionalidades de um app de treino fictício chamado **FitFlow**, com design clean, sofisticado e responsivo, desenvolvida com o apoio do **GitHub Copilot** a partir de um plano estruturado pelo próprio desenvolvedor.
 
 > Projeto desenvolvido individualmente com foco na aplicação de conceitos de desenvolvimento front-end, design de interfaces e uso de IA assistiva para geração de código.
 
