@@ -37,7 +37,7 @@ Landing page desenvolvida como resultado dos primeiros passos da jornada **Fulls
 
 ---
 
-### 🔗 Demo: [https://yurirlombardi.github.io/Fundo-Magico/](https://yurirlombardi.github.io/FitnessFlow/)
+### 🔗 Demo: https://yurirlombardi.github.io/FitnessFlow/
 
 ---
 
